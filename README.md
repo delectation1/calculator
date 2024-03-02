@@ -1,1 +1,2 @@
-# odin-calculator
+# Calculator
+Basic calculator made for odin
